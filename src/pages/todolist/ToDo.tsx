@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { BorderBeam } from "../../components/magicui/border-beam";
 import SparklesText from "../../components/magicui/sparkles-text";
 import ShinyButton from "../../components/magicui/shiny-button";
